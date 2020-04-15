@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Machine Guesses Interger between 1 and user defined", "Machine Guesses Interger between 1 and user defined\Machine Guesses Interger between 1 and user defined.pyproj", "{12D924F7-77A5-4C91-BC8E-5F9EDA364B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D924F7-77A5-4C91-BC8E-5F9EDA364B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D924F7-77A5-4C91-BC8E-5F9EDA364B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46FAD34D-B8B1-4E63-85AC-659F41B8BBF6}
+	EndGlobalSection
+EndGlobal
